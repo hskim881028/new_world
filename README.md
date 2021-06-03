@@ -8,3 +8,4 @@
 	- com.unity.rendering.hybrid
 	- com.unity.dots.editor
 	- com.unity.multiplayer.mlapi
+	- com.unity.inputsystem
