@@ -5,5 +5,8 @@
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
+[Ss]amples/
 *.sln
 *.idea/
+*.csproj
+Asset/Samples/
