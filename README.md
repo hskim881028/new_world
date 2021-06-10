@@ -9,3 +9,4 @@
 	- com.unity.dots.editor
 	- com.unity.multiplayer.mlapi
 	- com.unity.inputsystem
+	- [uniRx](https://github.com/neuecc/UniRx)
